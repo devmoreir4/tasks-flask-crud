@@ -1,6 +1,6 @@
 Flask==2.3.2
 Werkzeug==3.0.6
-requests==2.31.0
+requests==2.32.2
 pytest==7.4.3
 
 #pip3 install -r requirements.txt
